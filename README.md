@@ -1,5 +1,5 @@
 # Collections-of-The-Lip-Reading-Work-of-VIPL-LR
-This is a collection of the released codes of the lip reading papers of VIPL-LR.
+This is a collection of the released codes of the lip reading papers of VIPL-LR ([The group website](http://vipl.ict.ac.cn/en/team.php?id=9)).
 
 ### LRW-1000: A naturally-distributed large-scale benchmark for lip reading in the wild, FG 2019
   * dataset：[http://vipl.ict.ac.cn/en/view_database.php?id=13](http://vipl.ict.ac.cn/en/view_database.php?id=13)  
