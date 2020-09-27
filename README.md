@@ -10,7 +10,7 @@ This is a collection of the released codes and papers of VIPL-LR (The group webs
   
 ### Deformation Flow Based Two-Stream Network for Lip Reading, FG 2020
   * pdf：[https://arxiv.org/pdf/2003.05709.pdf](https://arxiv.org/pdf/2003.05709.pdf)  
-  * code *: [https://github.com/jingyunx/Deformation-Flow-Based-Two-stream-Network](https://github.com/jingyunx/Deformation-Flow-Based-Two-stream-Network)
+  * code\*: [https://github.com/jingyunx/Deformation-Flow-Based-Two-stream-Network](https://github.com/jingyunx/Deformation-Flow-Based-Two-stream-Network)
   
 ### Pseudo-Convolutional Policy Gradient for Sequence-to-Sequence Lip-Reading, FG 2020
   * pdf: [https://arxiv.org/pdf/2003.03983.pdf](https://arxiv.org/pdf/2003.03983.pdf)
