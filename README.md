@@ -8,7 +8,10 @@ This is a collection of the released codes and papers of VIPL-LR (The group webs
 ### The Mandarin Audio-Visual Speech Recognition Challenge (MAVSR)
   * 2019: @ACM ICMI, [http://vipl.ict.ac.cn/homepage/mavsr/index.html](http://vipl.ict.ac.cn/homepage/mavsr/index.html)
   * 2020: TBD
-  
+
+### Synchronous Bidirectional Learning for Multilingual Lip Reading, BMVC 2020
+  * pdf：[https://vipl.ict.ac.cn/uploadfile/upload/2020092712205459.pdf](https://vipl.ict.ac.cn/uploadfile/upload/2020092712205459.pdf)  
+
 ### Deformation Flow Based Two-Stream Network for Lip Reading, FG 2020
   * pdf：[https://vipl.ict.ac.cn/uploadfile/upload/2020071411144684.pdf](https://vipl.ict.ac.cn/uploadfile/upload/2020071411144684.pdf)  
   * \*code: [https://github.com/jingyunx/Deformation-Flow-Based-Two-stream-Network](https://github.com/jingyunx/Deformation-Flow-Based-Two-stream-Network)
