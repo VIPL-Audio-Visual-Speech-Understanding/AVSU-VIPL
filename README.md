@@ -23,3 +23,7 @@ This is a collection of the released codes and papers of VIPL-LR (The group webs
   
 ### Multi-Task Learning for Audio-Visual Active Speaker Detection, ActivityNet Challenge 2019
   * pdf: [https://static.googleusercontent.com/media/research.google.com/zh-CN//ava/2019/Multi_Task_Learning_for_Audio_Visual_Active_Speaker_Detection.pdf](https://static.googleusercontent.com/media/research.google.com/zh-CN//ava/2019/Multi_Task_Learning_for_Audio_Visual_Active_Speaker_Detection.pdf)
+
+
+### Re-implementation of LipNet
+  * code: [https://github.com/Fengdalu/LipNet-PyTorch] | [https://github.com/sailordiary/LipNet-PyTorch]
