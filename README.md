@@ -10,14 +10,14 @@ This is a collection of the released codes and papers of VIPL-LR (The group webs
   
 ### Deformation Flow Based Two-Stream Network for Lip Reading, FG 2020
   * pdf：[https://arxiv.org/pdf/2003.05709.pdf](https://arxiv.org/pdf/2003.05709.pdf)  
-  * code: [https://github.com/jingyunx/Deformation-Flow-Based-Two-stream-Network](https://github.com/jingyunx/Deformation-Flow-Based-Two-stream-Network)
+  * code *: [https://github.com/jingyunx/Deformation-Flow-Based-Two-stream-Network](https://github.com/jingyunx/Deformation-Flow-Based-Two-stream-Network)
   
 ### Pseudo-Convolutional Policy Gradient for Sequence-to-Sequence Lip-Reading, FG 2020
   * pdf: [https://arxiv.org/pdf/2003.03983.pdf](https://arxiv.org/pdf/2003.03983.pdf)
   
 ### Mutual Information Maximization for Effective Lipreading, FG 2020
   * pdf: [https://arxiv.org/pdf/2003.06439.pdf](https://arxiv.org/pdf/2003.06439.pdf)
-  * code: [https://github.com/xing96/MIM-lipreading](https://github.com/xing96/MIM-lipreading)
+  * code *: [https://github.com/xing96/MIM-lipreading](https://github.com/xing96/MIM-lipreading)
   
 ### Can We Read Speech Beyond the Lips? Rethinking RoI Selection for Deep Visual Speech Recognition, FG 2020
   * pdf: [https://arxiv.org/pdf/2003.03206.pdf](https://arxiv.org/pdf/2003.03206.pdf)
@@ -27,5 +27,5 @@ This is a collection of the released codes and papers of VIPL-LR (The group webs
 
 
 ### Re-implementation of LipNet
-  * code: version-A: [https://github.com/Fengdalu/LipNet-PyTorch](https://github.com/Fengdalu/LipNet-PyTorch)
-  * code: version-B: [https://github.com/sailordiary/LipNet-PyTorch](https://github.com/sailordiary/LipNet-PyTorch)
+  * code *: version-A: [https://github.com/Fengdalu/LipNet-PyTorch](https://github.com/Fengdalu/LipNet-PyTorch)
+  * code *: version-B: [https://github.com/sailordiary/LipNet-PyTorch](https://github.com/sailordiary/LipNet-PyTorch)
