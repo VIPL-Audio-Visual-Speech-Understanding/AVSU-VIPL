@@ -5,8 +5,9 @@ This is a collection of the released codes and papers of VIPL-LR (The group webs
   * dataset：[http://vipl.ict.ac.cn/en/view_database.php?id=13](http://vipl.ict.ac.cn/en/view_database.php?id=13)  
   * pdf: [https://arxiv.org/pdf/1810.06990.pdf](https://arxiv.org/pdf/1810.06990.pdf)  
   * \*code: [https://github.com/NirHeaven/D3D](https://github.com/NirHeaven/D3D)   | [https://github.com/Fengdalu/Lipreading-DenseNet3D](https://github.com/Fengdalu/Lipreading-DenseNet3D)  
-### The 1st Mandarin Audio-Visual Speech Recognition Challenge (MAVSR), 2019
-  * link: [http://vipl.ict.ac.cn/homepage/mavsr/index.html](http://vipl.ict.ac.cn/homepage/mavsr/index.html)
+### The Mandarin Audio-Visual Speech Recognition Challenge (MAVSR)
+  * 2019: [http://vipl.ict.ac.cn/homepage/mavsr/index.html](http://vipl.ict.ac.cn/homepage/mavsr/index.html)
+  * 2020: TBD
   
 ### Deformation Flow Based Two-Stream Network for Lip Reading, FG 2020
   * pdf：[https://arxiv.org/pdf/2003.05709.pdf](https://arxiv.org/pdf/2003.05709.pdf)  
