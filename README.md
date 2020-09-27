@@ -17,6 +17,7 @@ This is a collection of the released codes and papers of VIPL-LR (The group webs
   
 ### Mutual Information Maximization for Effective Lipreading, FG 2020
   * pdf: [https://arxiv.org/pdf/2003.06439.pdf](https://arxiv.org/pdf/2003.06439.pdf)
+  * code: [https://github.com/xing96/MIM-lipreading](https://github.com/xing96/MIM-lipreading)
   
 ### Can We Read Speech Beyond the Lips? Rethinking RoI Selection for Deep Visual Speech Recognition, FG 2020
   * pdf: [https://arxiv.org/pdf/2003.03206.pdf](https://arxiv.org/pdf/2003.03206.pdf)
