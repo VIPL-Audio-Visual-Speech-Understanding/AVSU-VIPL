@@ -1,11 +1,11 @@
 # Collections-of-The-Lip-Reading-Work-of-VIPL-LR
 This is a collection of the released codes and papers of VIPL-LR (The group website is [here](http://vipl.ict.ac.cn/en/team.php?id=9)).
 
-### <span style="color:red;"> LRW-1000</span>: A naturally-distributed large-scale benchmark for lip reading in the wild, FG 2019
+### <font color=#0099ff> LRW-1000 </font>: A naturally-distributed large-scale benchmark for lip reading in the wild, FG 2019
   * dataset：[http://vipl.ict.ac.cn/en/view_database.php?id=13](http://vipl.ict.ac.cn/en/view_database.php?id=13)  
   * pdf: [https://vipl.ict.ac.cn/uploadfile/upload/2019120612315190.pdf](https://vipl.ict.ac.cn/uploadfile/upload/2019120612315190.pdf)  
   * \*code: [https://github.com/NirHeaven/D3D](https://github.com/NirHeaven/D3D)   | [https://github.com/Fengdalu/Lipreading-DenseNet3D](https://github.com/Fengdalu/Lipreading-DenseNet3D)  
-### The Mandarin Audio-Visual Speech Recognition Challenge (<span style="color:red;"> MAVSR </span>)
+### The Mandarin Audio-Visual Speech Recognition Challenge ( <font color=#0099ff> MAVSR </font>)
   * 2019: @ACM ICMI, [http://vipl.ict.ac.cn/homepage/mavsr/index.html](http://vipl.ict.ac.cn/homepage/mavsr/index.html)
   * 2020: TBD
 
