@@ -5,12 +5,16 @@ This is a collection of the released codes and papers of VIPL-LR (The group webs
   * dataset：[http://vipl.ict.ac.cn/en/view_database.php?id=13](http://vipl.ict.ac.cn/en/view_database.php?id=13)  
   * pdf: [https://vipl.ict.ac.cn/uploadfile/upload/2019120612315190.pdf](https://vipl.ict.ac.cn/uploadfile/upload/2019120612315190.pdf)  
   * \*code: [https://github.com/NirHeaven/D3D](https://github.com/NirHeaven/D3D)   | [https://github.com/Fengdalu/Lipreading-DenseNet3D](https://github.com/Fengdalu/Lipreading-DenseNet3D)  
+  * SOTA Acc: [https://paperswithcode.com/sota/lipreading-on-lrw-1000](https://paperswithcode.com/sota/lipreading-on-lrw-1000)
   
 ### [AVSR Challenge]: The Mandarin Audio-Visual Speech Recognition Challenge (MAVSR)
   * 2019: @ACM ICMI, [http://vipl.ict.ac.cn/homepage/mavsr/index.html](http://vipl.ict.ac.cn/homepage/mavsr/index.html)
   * 2020: TBD
 
 --------------------------------------------------------------------------
+### Learn an Effective Lip Reading Model without Pains, ARXIV 2020
+ * pdf: [https://arxiv.org/abs/2011.07557](https://arxiv.org/abs/2011.07557)
+ * \*code:[https://github.com/Fengdalu/learn-an-effective-lip-reading-model-without-pains](https://github.com/Fengdalu/learn-an-effective-lip-reading-model-without-pains)
 
 ### Synchronous Bidirectional Learning for Multilingual Lip Reading, BMVC 2020
   * pdf：[https://vipl.ict.ac.cn/uploadfile/upload/2020092712205459.pdf](https://vipl.ict.ac.cn/uploadfile/upload/2020092712205459.pdf)  
