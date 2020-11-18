@@ -13,8 +13,7 @@ This is a collection of the released codes and papers of VIPL-LR (The group webs
 
 --------------------------------------------------------------------------
 ### Learn an Effective Lip Reading Model without Pains, ARXIV 2020
- * pdf: [https://arxiv.org/abs/2011.07557](https://arxiv.org/abs/2011.07557)
- * \*code:[https://github.com/Fengdalu/learn-an-effective-lip-reading-model-without-pains](https://github.com/Fengdalu/learn-an-effective-lip-reading-model-without-pains)
+ * [PDF](https://arxiv.org/abs/2011.07557) [code](https://github.com/Fengdalu/learn-an-effective-lip-reading-model-without-pains)
 
 ### Synchronous Bidirectional Learning for Multilingual Lip Reading, BMVC 2020
   * pdf：[https://vipl.ict.ac.cn/uploadfile/upload/2020092712205459.pdf](https://vipl.ict.ac.cn/uploadfile/upload/2020092712205459.pdf)  
