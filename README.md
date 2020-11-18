@@ -14,12 +14,12 @@ This is a collection of the released codes and papers of VIPL-LR (The group webs
 
 --------------------------------------------------------------------------
 ### Learn an Effective Lip Reading Model without Pains, ARXIV 2020
-    Dalu Feng, Shuang Yang, Shiguang Shan, Xilin Chen
-    [[PDF]](https://arxiv.org/abs/2011.07557) [[code]](https://github.com/Fengdalu/learn-an-effective-lip-reading-model-without-pains)
+   Dalu Feng, Shuang Yang, Shiguang Shan, Xilin Chen
+   [PDF](https://arxiv.org/abs/2011.07557) *[code](https://github.com/Fengdalu/learn-an-effective-lip-reading-model-without-pains)
 
 ### Synchronous Bidirectional Learning for Multilingual Lip Reading, BMVC 2020
     Mingshuang Luo, Shuang Yang, Shiguang Shan, Xilin Chen
-    [[pdf]](https://vipl.ict.ac.cn/uploadfile/upload/2020092712205459.pdf)  
+    [pdf](https://vipl.ict.ac.cn/uploadfile/upload/2020092712205459.pdf)  
 
 ### Deformation Flow Based Two-Stream Network for Lip Reading, FG 2020
     Jingyun Xiao, Shuang Yang, Yuanhang Zhang, Shiguang Shan, Xilin Chen
