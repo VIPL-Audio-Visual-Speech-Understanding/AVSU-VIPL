@@ -13,29 +13,27 @@ This is a collection of the released codes and papers of VIPL-LR (The group webs
 
 --------------------------------------------------------------------------
 ### Learn an Effective Lip Reading Model without Pains, ARXIV 2020
- * [PDF](https://arxiv.org/abs/2011.07557) [code](https://github.com/Fengdalu/learn-an-effective-lip-reading-model-without-pains)
+ * [[PDF]](https://arxiv.org/abs/2011.07557) [[code]](https://github.com/Fengdalu/learn-an-effective-lip-reading-model-without-pains)
 
 ### Synchronous Bidirectional Learning for Multilingual Lip Reading, BMVC 2020
-  * pdf：[https://vipl.ict.ac.cn/uploadfile/upload/2020092712205459.pdf](https://vipl.ict.ac.cn/uploadfile/upload/2020092712205459.pdf)  
+  * [[pdf]](https://vipl.ict.ac.cn/uploadfile/upload/2020092712205459.pdf)  
 
 ### Deformation Flow Based Two-Stream Network for Lip Reading, FG 2020
-  * pdf：[https://vipl.ict.ac.cn/uploadfile/upload/2020071411144684.pdf](https://vipl.ict.ac.cn/uploadfile/upload/2020071411144684.pdf)  
-  * \*code: [https://github.com/jingyunx/Deformation-Flow-Based-Two-stream-Network](https://github.com/jingyunx/Deformation-Flow-Based-Two-stream-Network)
+  * [[pdf]](https://vipl.ict.ac.cn/uploadfile/upload/2020071411144684.pdf)  [[code]](https://github.com/jingyunx/Deformation-Flow-Based-Two-stream-Network)
   
 ### Pseudo-Convolutional Policy Gradient for Sequence-to-Sequence Lip-Reading, FG 2020
-  * pdf: [https://vipl.ict.ac.cn/uploadfile/upload/2020071411152795.pdf](https://vipl.ict.ac.cn/uploadfile/upload/2020071411152795.pdf)
+  * [[pdf]](https://vipl.ict.ac.cn/uploadfile/upload/2020071411152795.pdf)
   
 ### Mutual Information Maximization for Effective Lipreading, FG 2020
-  * pdf: [https://vipl.ict.ac.cn/uploadfile/upload/2020071411172971.pdf](https://vipl.ict.ac.cn/uploadfile/upload/2020071411172971.pdf)
-  * \*code: [https://github.com/xing96/MIM-lipreading](https://github.com/xing96/MIM-lipreading)
+  * [[pdf]](https://vipl.ict.ac.cn/uploadfile/upload/2020071411172971.pdf)[[code]](https://github.com/xing96/MIM-lipreading)
   
 ### Can We Read Speech Beyond the Lips? Rethinking RoI Selection for Deep Visual Speech Recognition, FG 2020
-  * pdf: [https://vipl.ict.ac.cn/uploadfile/upload/2020071411181845.pdf](https://vipl.ict.ac.cn/uploadfile/upload/2020071411181845.pdf)
+  * [[pdf]](https://vipl.ict.ac.cn/uploadfile/upload/2020071411181845.pdf)
   
 ### Multi-Task Learning for Audio-Visual Active Speaker Detection, CVPR ActivityNet Challenge 2019
-  * pdf: [https://static.googleusercontent.com/media/research.google.com/zh-CN//ava/2019/Multi_Task_Learning_for_Audio_Visual_Active_Speaker_Detection.pdf](https://static.googleusercontent.com/media/research.google.com/zh-CN//ava/2019/Multi_Task_Learning_for_Audio_Visual_Active_Speaker_Detection.pdf)
+  * [[pdf]](https://static.googleusercontent.com/media/research.google.com/zh-CN//ava/2019/Multi_Task_Learning_for_Audio_Visual_Active_Speaker_Detection.pdf)
 
 
 ### Re-implementation of LipNet
-  * \*code: version-A: [https://github.com/Fengdalu/LipNet-PyTorch](https://github.com/Fengdalu/LipNet-PyTorch)
-  * \*code: version-B: [https://github.com/sailordiary/LipNet-PyTorch](https://github.com/sailordiary/LipNet-PyTorch)
+  * [[code: version-A]](https://github.com/Fengdalu/LipNet-PyTorch)
+  * [[code: version-B]](https://github.com/sailordiary/LipNet-PyTorch)
