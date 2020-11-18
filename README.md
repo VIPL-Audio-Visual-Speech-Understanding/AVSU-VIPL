@@ -25,19 +25,19 @@ This is a collection of the released codes and papers of VIPL-LR (The group webs
    Jingyun Xiao, Shuang Yang, Yuanhang Zhang, Shiguang Shan, Xilin Chen, Deformation Flow Based Two-Stream Network for Lip Reading, FG 2020
     [[PDF]](https://vipl.ict.ac.cn/uploadfile/upload/2020071411144684.pdf) | [[code]](https://github.com/jingyunx/Deformation-Flow-Based-Two-stream-Network)
 
-### Mutual Information Maximization for Effective Lipreading, FG 2020
+#### Mutual Information Maximization for Effective Lipreading, FG 2020
    Xing Zhao, Shuang Yang, Shiguang Shan, Xilin Chen, Mutual Information Maximization for Effective Lipreading, FG 2020
     [[PDF]](https://vipl.ict.ac.cn/uploadfile/upload/2020071411172971.pdf) | [[code]](https://github.com/xing96/MIM-lipreading)
   
-### Pseudo-Convolutional Policy Gradient for Sequence-to-Sequence Lip-Reading, FG 2020
+#### Pseudo-Convolutional Policy Gradient for Sequence-to-Sequence Lip-Reading, FG 2020
    Mingshuang Luo, Shuang Yang, Shiguang Shan, Xilin Chen, Pseudo-Convolutional Policy Gradient for Sequence-to-Sequence Lip-Reading, FG 2020
       [[PDF]](https://vipl.ict.ac.cn/uploadfile/upload/2020071411152795.pdf)
   
-### Can We Read Speech Beyond the Lips? Rethinking RoI Selection for Deep Visual Speech Recognition, FG 2020
+#### Can We Read Speech Beyond the Lips? Rethinking RoI Selection for Deep Visual Speech Recognition, FG 2020
    Yuanhang Zhang, Shuang Yang, Jingyun Xiao, Shiguang Shan, Xilin Chen, Can We Read Speech Beyond the Lips? Rethinking RoI Selection for Deep Visual Speech Recognition, FG 2020
     [[PDF]](https://vipl.ict.ac.cn/uploadfile/upload/2020071411181845.pdf)
   
-### Multi-Task Learning for Audio-Visual Active Speaker Detection, CVPR ActivityNet Challenge 2019
+#### Multi-Task Learning for Audio-Visual Active Speaker Detection, CVPR ActivityNet Challenge 2019
    Yuanhang Zhang, Jingyun Xiao, Shuang Yang, Shiguang Shan, Multi-Task Learning for Audio-Visual Active Speaker Detection, CVPR ActivityNet Challenge 2019
     [[PDF]](https://static.googleusercontent.com/media/research.google.com/zh-CN//ava/2019/Multi_Task_Learning_for_Audio_Visual_Active_Speaker_Detection.pdf)
 
