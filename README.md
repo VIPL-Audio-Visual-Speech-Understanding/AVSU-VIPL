@@ -2,7 +2,6 @@
 This is a collection of the released codes and papers of VIPL-LR (The group website is [here](http://vipl.ict.ac.cn/en/team.php?id=9)).
 
 ### [AVSR DATASET]: LRW-1000: A naturally-distributed large-scale benchmark for lip reading in the wild, FG 2019
-   Shuang Yang, Yuanhang Zhang, Dalu Feng, Mingmin Yang, Chenhao Wang, Jingyun Xiao, Keyu Long, Shiguang Shan, Xilin Chen
   * dataset：[http://vipl.ict.ac.cn/en/view_database.php?id=13](http://vipl.ict.ac.cn/en/view_database.php?id=13)  
   * pdf: [https://vipl.ict.ac.cn/uploadfile/upload/2019120612315190.pdf](https://vipl.ict.ac.cn/uploadfile/upload/2019120612315190.pdf)  
   * \*code: [https://github.com/NirHeaven/D3D](https://github.com/NirHeaven/D3D)   | [https://github.com/Fengdalu/Lipreading-DenseNet3D](https://github.com/Fengdalu/Lipreading-DenseNet3D)  
