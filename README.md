@@ -36,4 +36,4 @@ This is a collection of the released codes and papers of VIPL-LR (The group webs
 
 ### Re-implementation of LipNet
    [[code: version-A]](https://github.com/Fengdalu/LipNet-PyTorch)(Dalu Feng)
-   [[code: version-B]](https://github.com/sailordiary/LipNet-PyTorch)(Mingmin Yang)
+   [[code: version-B]](https://github.com/sailordiary/LipNet-PyTorch)(Yuanhang Zhang)
