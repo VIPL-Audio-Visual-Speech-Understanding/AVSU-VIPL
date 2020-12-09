@@ -9,7 +9,7 @@ This is a collection of the released codes and papers of VIPL-LR (The group webs
   
 ### [AVSR Challenge]: The Mandarin Audio-Visual Speech Recognition Challenge (MAVSR)
   * 2019: @ACM ICMI, [http://vipl.ict.ac.cn/homepage/mavsr/index.html](http://vipl.ict.ac.cn/homepage/mavsr/index.html)
-  * 2020: TBD
+  
 
 --------------------------------------------------------------------------
 * Dalu Feng, Shuang Yang, Shiguang Shan, Xilin Chen, “Learn an Effective Lip Reading Model without Pains”, *ARXIV* 2020  
