@@ -33,7 +33,6 @@ This is a collection of the released codes and papers of VIPL-LR (The group webs
 * Yuanhang Zhang, Jingyun Xiao, Shuang Yang, Shiguang Shan, Multi-Task Learning for Audio-Visual Active Speaker Detection, *CVPR ActivityNet Challenge* 2019  
     [[PDF]](https://static.googleusercontent.com/media/research.google.com/zh-CN//ava/2019/Multi_Task_Learning_for_Audio_Visual_Active_Speaker_Detection.pdf)
 
-
-### Re-implementation of LipNet
+* Re-implementation of LipNet
    [[code: version-A]](https://github.com/Fengdalu/LipNet-PyTorch)(Dalu Feng)
    [[code: version-B]](https://github.com/sailordiary/LipNet-PyTorch)(Yuanhang Zhang)
