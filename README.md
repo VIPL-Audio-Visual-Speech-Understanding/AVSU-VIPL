@@ -16,7 +16,7 @@ This is a collection of the released codes and papers of VIPL-LR (The group webs
    [[PDF]](https://arxiv.org/abs/2011.07557) |  [[code]](https://github.com/Fengdalu/learn-an-effective-lip-reading-model-without-pains)
 
 * Mingshuang Luo, Shuang Yang, Shiguang Shan, Xilin Chen, “Synchronous Bidirectional Learning for Multilingual Lip Reading”, *BMVC* 2020  
-    [[PDF]](https://vipl.ict.ac.cn/uploadfile/upload/2020093011033041.pdf)  | [[code]](https://github.com/luomingshuang/SBL_For_Multilingual_Lip_Reading)
+    [[PDF]](https://vipl.ict.ac.cn/uploadfile/upload/2020093011033041.pdf) 
 
 * Jingyun Xiao, Shuang Yang, Yuanhang Zhang, Shiguang Shan, Xilin Chen, “Deformation Flow Based Two-Stream Network for Lip Reading”, *FG* 2020  
     [[PDF]](https://vipl.ict.ac.cn/uploadfile/upload/2020071411144684.pdf) | [[code]](https://github.com/jingyunx/Deformation-Flow-Based-Two-stream-Network)
@@ -25,7 +25,7 @@ This is a collection of the released codes and papers of VIPL-LR (The group webs
     [[PDF]](https://vipl.ict.ac.cn/uploadfile/upload/2020071411172971.pdf) | [[code]](https://github.com/xing96/MIM-lipreading)
   
 * Yuanhang Zhang, Shuang Yang, Jingyun Xiao, Shiguang Shan, Xilin Chen, Can We Read Speech Beyond the Lips? Rethinking RoI Selection for Deep Visual Speech Recognition, *FG* 2020 **(oral)**  
-    [[PDF]](https://vipl.ict.ac.cn/uploadfile/upload/2020071411181845.pdf)
+    [[PDF]](https://vipl.ict.ac.cn/uploadfile/upload/2020071411181845.pdf) | [[code]](https://github.com/sailordiary/deep-face-vsr)
   
 * Mingshuang Luo, Shuang Yang, Shiguang Shan, Xilin Chen, “Pseudo-Convolutional Policy Gradient for Sequence-to-Sequence Lip-Reading”, *FG* 2020  
     [[PDF]](https://vipl.ict.ac.cn/uploadfile/upload/2020071411152795.pdf)
