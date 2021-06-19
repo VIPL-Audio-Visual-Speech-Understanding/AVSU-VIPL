@@ -1,7 +1,7 @@
 # Collections-of-The-Lip-Reading-Work-of-VIPL-LR
 This is a collection of the released codes and papers of VIPL-LR (The group website is [here](http://vipl.ict.ac.cn/en/team.php?id=9)).
 
-### [AVSR DATASET]: LRW-1000: A naturally-distributed large-scale benchmark for lip reading in the wild, FG 2019
+### [AVSR DATASET]: (CAS-VSR-W1k) LRW-1000: A naturally-distributed large-scale benchmark for lip reading in the wild, FG 2019
   * dataset：[http://vipl.ict.ac.cn/en/view_database.php?id=13](http://vipl.ict.ac.cn/en/view_database.php?id=13)  
   * pdf: [https://vipl.ict.ac.cn/uploadfile/upload/2019120612315190.pdf](https://vipl.ict.ac.cn/uploadfile/upload/2019120612315190.pdf)  
   * \*code: [https://github.com/NirHeaven/D3D](https://github.com/NirHeaven/D3D)   | [https://github.com/Fengdalu/Lipreading-DenseNet3D](https://github.com/Fengdalu/Lipreading-DenseNet3D)  
@@ -9,9 +9,14 @@ This is a collection of the released codes and papers of VIPL-LR (The group webs
   
 ### [AVSR Challenge]: The Mandarin Audio-Visual Speech Recognition Challenge (MAVSR)
   * 2019: @ACM ICMI, [http://vipl.ict.ac.cn/homepage/mavsr/index.html](http://vipl.ict.ac.cn/homepage/mavsr/index.html)
-  
+--------------------------------------------------------------------------  
+Recent News: 
+
+2021-06: AVA Challenge as part of ActivityNet @CVPR-2021: the 1st place prize in Active Speaker Track. More details could be found [here](https://research.google.com/ava/challenge.html). Congratualtions to Yuan-hang and Su-san!
 
 --------------------------------------------------------------------------
+Publications:
+
 * Dalu Feng, Shuang Yang, Shiguang Shan, Xilin Chen, “Learn an Effective Lip Reading Model without Pains”, *ARXIV* 2020  
    [[PDF]](https://arxiv.org/abs/2011.07557) |  [[code]](https://github.com/Fengdalu/learn-an-effective-lip-reading-model-without-pains)
 
