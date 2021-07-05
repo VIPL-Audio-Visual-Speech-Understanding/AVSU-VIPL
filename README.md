@@ -10,12 +10,16 @@ This is a collection of the released codes and papers of VIPL-LR (The group webs
 ### [AVSR Challenge]: The Mandarin Audio-Visual Speech Recognition Challenge (MAVSR)
   * 2019: @ACM ICMI, [http://vipl.ict.ac.cn/homepage/mavsr/index.html](http://vipl.ict.ac.cn/homepage/mavsr/index.html)
 --------------------------------------------------------------------------  
-Recent News: 
+#### Recent News: 
 
-2021-06: AVA Challenge as part of ActivityNet @CVPR-2021: the 1st place prize in Active Speaker Track. More details could be found [here](https://research.google.com/ava/challenge.html). Congratualtions to Yuan-hang and Su-san!
+[2021-07]: One paper is accepted by ACM MM 2021! Congratualtions to Yuan-hang and Su-san!
+
+[2021-06]: AVA Challenge as part of ActivityNet @CVPR-2021: the 1st place prize in Active Speaker Track. More details could be found [here](https://research.google.com/ava/challenge.html). Congratualtions to Yuan-hang and Su-san!
 
 --------------------------------------------------------------------------
-Publications:
+#### Publications:
+
+* Yuanhang Zhang, Susan Liang, Shuang Yang, Xiao Liu, Zhongqin Wu, Shiguang Shan, Xilin Chen, "UniCon: Unified Context Network for Robust Active Speaker Detection", *ACM MM* 2021
 
 * Dalu Feng, Shuang Yang, Shiguang Shan, Xilin Chen, “Learn an Effective Lip Reading Model without Pains”, *ARXIV* 2020  
    [[PDF]](https://arxiv.org/abs/2011.07557) |  [[code]](https://github.com/Fengdalu/learn-an-effective-lip-reading-model-without-pains)
