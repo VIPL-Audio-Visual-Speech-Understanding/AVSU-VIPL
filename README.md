@@ -12,9 +12,9 @@ This is a collection of the released codes and papers of VIPL-LR (The group webs
 --------------------------------------------------------------------------  
 #### Recent News: 
 
-[2021-07]: One paper is accepted by ACM MM 2021! Congratualtions to Yuan-hang and Su-san!
+[2021-07]: One paper is accepted by ACM MM 2021! Congratualtions to Yuanhang and Susan!
 
-[2021-06]: AVA Challenge as part of ActivityNet @CVPR-2021: the 1st place prize in Active Speaker Track. More details could be found [here](https://research.google.com/ava/challenge.html). Congratualtions to Yuan-hang and Su-san!
+[2021-06]: AVA Challenge as part of ActivityNet @CVPR-2021: the 1st place prize in Active Speaker Track. More details could be found [here](https://research.google.com/ava/challenge.html). Congratualtions to Yuanhang and Susan!
 
 --------------------------------------------------------------------------
 #### Publications:
