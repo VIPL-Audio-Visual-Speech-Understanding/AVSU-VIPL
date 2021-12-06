@@ -19,7 +19,7 @@ This is a collection of the released codes and papers of VIPL-LR (The group webs
 --------------------------------------------------------------------------
 #### Publications:
 
-* Yuanhang Zhang, Susan Liang, Shuang Yang, Xiao Liu, Zhongqin Wu, Shiguang Shan, Xilin Chen, "UniCon: Unified Context Network for Robust Active Speaker Detection", *ACM MM* 2021 [https://unicon-asd.github.io/](https://unicon-asd.github.io/)
+* Yuanhang Zhang, Susan Liang, Shuang Yang, Xiao Liu, Zhongqin Wu, Shiguang Shan, Xilin Chen, "UniCon: Unified Context Network for Robust Active Speaker Detection", *ACM MM* 2021.Info: [https://unicon-asd.github.io/](https://unicon-asd.github.io/)
 
 * Dalu Feng, Shuang Yang, Shiguang Shan, Xilin Chen, “Learn an Effective Lip Reading Model without Pains”, ICME Workshop 2021  
    [[PDF]](https://arxiv.org/abs/2011.07557) |  [[code]](https://github.com/Fengdalu/learn-an-effective-lip-reading-model-without-pains)
