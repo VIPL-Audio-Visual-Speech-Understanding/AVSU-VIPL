@@ -2,11 +2,12 @@
 
 This is a collection of the works from Audio-Visual Speech Understading Group in VIPL.
 
-Our group website is [here](http://vipl.ict.ac.cn/en/team.php?id=9)).
+Our group website is [here](http://vipl.ict.ac.cn/en/team.php?id=9).
 
 ## Recent News: 
 
 [**2021-07**]: One paper is accepted by ACM MM 2021! Congratualtions to Yuanhang and Susan!
+
 [**2021-06**]: AVA Challenge as part of ActivityNet @CVPR-2021: We achieved the mAP of **93.4%** on AVA Active Speaker Dataset and obtained the **1st place prize** in Active Speaker Track. More details could be found [here](https://research.google.com/ava/challenge.html). Congratualtions to Yuanhang and Susan!
 
 ## Datasets
