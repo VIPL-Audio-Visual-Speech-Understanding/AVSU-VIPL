@@ -1,23 +1,25 @@
-# Collections-of-The-Lip-Reading-Work-of-VIPL-LR
-This is a collection of the released codes and papers of VIPL-LR (The group website is [here](http://vipl.ict.ac.cn/en/team.php?id=9)).
+# Lip Reading Works from VIPL AVSU
 
+This is a collection of the works from Audio-Visual Speech Understading Group in VIPL.
+Our group website is [here](http://vipl.ict.ac.cn/en/team.php?id=9)).
+
+## Recent News: 
+
+[**2021-07**]: One paper is accepted by ACM MM 2021! Congratualtions to Yuanhang and Susan!
+[**2021-06**]: AVA Challenge as part of ActivityNet @CVPR-2021: We achieved the mAP of **93.4%** on AVA Active Speaker Dataset and obtained the **1st place prize** in Active Speaker Track. More details could be found [here](https://research.google.com/ava/challenge.html). Congratualtions to Yuanhang and Susan!
+
+## Datasets
 ### [AVSR DATASET]: (CAS-VSR-W1k) LRW-1000: A naturally-distributed large-scale benchmark for lip reading in the wild, FG 2019
   * dataset：[http://vipl.ict.ac.cn/en/view_database.php?id=13](http://vipl.ict.ac.cn/en/view_database.php?id=13)  
   * pdf: [https://vipl.ict.ac.cn/uploadfile/upload/2019120612315190.pdf](https://vipl.ict.ac.cn/uploadfile/upload/2019120612315190.pdf)  
   * \*code: [https://github.com/NirHeaven/D3D](https://github.com/NirHeaven/D3D)   | [https://github.com/Fengdalu/Lipreading-DenseNet3D](https://github.com/Fengdalu/Lipreading-DenseNet3D)  
   * SOTA Acc: [https://paperswithcode.com/sota/lipreading-on-lrw-1000](https://paperswithcode.com/sota/lipreading-on-lrw-1000)
   * *Note:* If you could not open the website of the dataset, you can go to the paper page for details about the data and further download the agreement file here in this repository if you plans to use this dataset for your research. Please read the agreement carefully, and complete it appropriately. Note that the agreement should be signed by a full-time staff member (that is, student is not acceptable). Then, please scan the signed agreement and send it to lipreading@vipl.ict.ac.cn. When we receive your reply, we would provide the download link to you as soon as possible. 
-  
+
+## Challenges
 ### [AVSR Challenge]: The Mandarin Audio-Visual Speech Recognition Challenge (MAVSR)
   * 2019: @ACM ICMI, [http://vipl.ict.ac.cn/homepage/mavsr/index.html](http://vipl.ict.ac.cn/homepage/mavsr/index.html)
---------------------------------------------------------------------------  
-#### Recent News: 
 
-[**2021-07**]: One paper is accepted by ACM MM 2021! Congratualtions to Yuanhang and Susan!
-
-[**2021-06**]: AVA Challenge as part of ActivityNet @CVPR-2021: We achieved the mAP of **93.4%** on AVA Active Speaker Dataset and obtained the **1st place prize** in Active Speaker Track. More details could be found [here](https://research.google.com/ava/challenge.html). Congratualtions to Yuanhang and Susan!
-
---------------------------------------------------------------------------
 #### Publications:
 
 * Yuanhang Zhang, Susan Liang, Shuang Yang, Xiao Liu, Zhongqin Wu, Shiguang Shan, "ICTCAS-UCAS-TAL Submission to the AVA-ActiveSpeaker Task at ActivityNet Challenge 2021",The ActivityNet Large-Scale Activity Recognition Challenge @CVPR-2021.(**The 1st Place**). [[PDF]](http://static.googleusercontent.com/media/research.google.com/zh-CN//ava/2021/S1_ICTCAS-UCAS-TAL.pdf)
