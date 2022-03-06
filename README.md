@@ -1,4 +1,4 @@
-# Lip Reading Works from VIPL AVSU
+# Collection of the works from VIPL-AVSU
 
 This is a collection of the works from Audio-Visual Speech Understading Group in VIPL.
 
