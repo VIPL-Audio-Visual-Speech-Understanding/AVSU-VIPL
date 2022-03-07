@@ -32,7 +32,7 @@ Our group website is [here](http://vipl.ict.ac.cn/en/team.php?id=9).
    [[PDF]](https://arxiv.org/abs/2011.07557) |  [[code]](https://github.com/VIPL-Audio-Visual-Speech-Understanding/learn-an-effective-lip-reading-model-without-pains)
 
 * Mingshuang Luo, Shuang Yang, Shiguang Shan, Xilin Chen, "Synchronous Bidirectional Learning for Multilingual Lip Reading", *BMVC* 2020  
-    [[PDF]](https://vipl.ict.ac.cn/uploadfile/upload/2020093011033041.pdf) 
+    [[PDF]](https://vipl.ict.ac.cn/uploadfile/upload/2020093011033041.pdf)  | [[code]](https://github.com/luomingshuang/SBL_For_Multilingual_Lip_Reading)
 
 * Jingyun Xiao, Shuang Yang, Yuanhang Zhang, Shiguang Shan, Xilin Chen, "Deformation Flow Based Two-Stream Network for Lip Reading", *FG* 2020  
     [[PDF]](https://vipl.ict.ac.cn/uploadfile/upload/2020071411144684.pdf) | [[code]](https://github.com/jingyunx/Deformation-Flow-Based-Two-stream-Network)
