@@ -12,9 +12,9 @@ Our group website is [here](http://vipl.ict.ac.cn/en/team.php?id=9).
 
 ## Datasets
 ### [AVSR DATASET]: (CAS-VSR-W1k) LRW-1000: A naturally-distributed large-scale benchmark for lip reading in the wild, FG 2019
-  * dataset：[http://vipl.ict.ac.cn/en/view_database.php?id=13](http://vipl.ict.ac.cn/en/view_database.php?id=13)  
-  * pdf: [https://vipl.ict.ac.cn/uploadfile/upload/2019120612315190.pdf](https://vipl.ict.ac.cn/uploadfile/upload/2019120612315190.pdf)  
-  * \*code: [https://github.com/NirHeaven/D3D](https://github.com/NirHeaven/D3D)   | [https://github.com/VIPL-Audio-Visual-Speech-Understanding/Lipreading-DenseNet3D](https://github.com/VIPL-Audio-Visual-Speech-Understanding/Lipreading-DenseNet3D)  
+  * Dataset：[http://vipl.ict.ac.cn/en/view_database.php?id=13](http://vipl.ict.ac.cn/en/view_database.php?id=13)  
+  * PDF: [https://vipl.ict.ac.cn/uploadfile/upload/2019120612315190.pdf](https://vipl.ict.ac.cn/uploadfile/upload/2019120612315190.pdf)  
+  * Code: [https://github.com/NirHeaven/D3D](https://github.com/NirHeaven/D3D)   | [https://github.com/VIPL-Audio-Visual-Speech-Understanding/Lipreading-DenseNet3D](https://github.com/VIPL-Audio-Visual-Speech-Understanding/Lipreading-DenseNet3D)  
   * SOTA Acc: [https://paperswithcode.com/sota/lipreading-on-lrw-1000](https://paperswithcode.com/sota/lipreading-on-lrw-1000)
   * *Note:* If you cannot open the website for the dataset, you can go to the paper page for details about the data, and then download the agreement file here in this repository if you plan to use this dataset for your research. Please read the agreement carefully, and complete it appropriately. Note that the agreement should be signed by a full-time staff member (that is, students are not acceptable). Then, please scan the signed agreement and send it to lipreading@vipl.ict.ac.cn. When we receive your reply, we will provide the download link to you as soon as possible. 
 
