@@ -13,18 +13,18 @@ Our group website is [here](http://vipl.ict.ac.cn/en/team.php?id=9).
 ## Datasets
 
 ### LRW-1000: A naturally-distributed large-scale benchmark for lip reading in the wild, FG 2019
-  > The largest Mandarin word-level audio-visual speech recognition dataset (2022), also called **CAS-VSR-W1k**.
+  The largest Mandarin word-level audio-visual speech recognition dataset (2022), also called **CAS-VSR-W1k**.
   * Dataset Link：[http://vipl.ict.ac.cn/en/view_database.php?id=13](http://vipl.ict.ac.cn/en/view_database.php?id=13)  
   * Application Agreement: [https://vipl.ict.ac.cn/uploadfile/upload/2019120612315190.pdf](https://vipl.ict.ac.cn/uploadfile/upload/2019120612315190.pdf)  
   * Codes: DenseNet3D [@fengdalu](https://github.com/VIPL-Audio-Visual-Speech-Understanding/Lipreading-DenseNet3D) [@NirHeaven](https://github.com/NirHeaven/D3D)
   * SOTA Accuracies: [https://paperswithcode.com/sota/lipreading-on-lrw-1000](https://paperswithcode.com/sota/lipreading-on-lrw-1000)
-  * *Note:* If you cannot open the website for the dataset, you can go to the paper page for details about the data, and then download the agreement file [here](https://github.com/VIPL-Audio-Visual-Speech-Understanding/AVSU-VIPL/blob/master/LRW-1000-Release%20Agreement.pdf) in this repository if you plan to use this dataset for your research. Please read the agreement carefully, and complete it appropriately. Note that the agreement should be signed by **a full-time staff member** (that is, students are not acceptable). Then, please scan the signed agreement and send it to lipreading@vipl.ict.ac.cn. When we receive your reply, we will provide the download link to you as soon as possible. 
+  > *Note:* If you cannot open the website for the dataset, you can go to the paper page for details about the data, and then download the agreement file [here](https://github.com/VIPL-Audio-Visual-Speech-Understanding/AVSU-VIPL/blob/master/LRW-1000-Release%20Agreement.pdf) in this repository if you plan to use this dataset for your research. Please read the agreement carefully, and complete it appropriately. Note that the agreement should be signed by **a full-time staff member** (that is, students are not acceptable). Then, please scan the signed agreement and send it to lipreading@vipl.ict.ac.cn. When we receive your reply, we will provide the download link to you as soon as possible. 
 
 ## Challenges
 
-### (MAVSR)  The 1st Mandarin Audio-Visual Speech Recognition Challenge
-  > This challenge aims at exploring the complementarity between visual and acoustic information in real-world speech recognition systems.  
-  * Introduction@ICMI:  [https://icmi.acm.org/2019/index.php?id=challenges#speech](https://icmi.acm.org/2019/index.php?id=challenges#speech)
+### The 1st Mandarin Audio-Visual Speech Recognition Challenge
+  This challenge aims at exploring the complementarity between visual and acoustic information in real-world speech recognition systems. Audio-based speech recognition has made great progresses in the last decade, while still face many challenges when coming to noisy conditions. With the rapid development of computer vision technologies, audio-visual speech recognition has become a hot topic. But it is unclear how much the visual speech can complement the acoustic speech. In this challenge, we encourage not only the contributions achieving high recognition performance, but also the contributions bringing brave new ideas for the topic.
+  * Introduction @ICMI Website: [https://icmi.acm.org/2019/index.php?id=challenges#speech](https://icmi.acm.org/2019/index.php?id=challenges#speech)
   * Homepage: [http://vipl.ict.ac.cn/homepage/mavsr/index.html](http://vipl.ict.ac.cn/homepage/mavsr/index.html)
   
 ## Publications
