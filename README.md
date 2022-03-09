@@ -22,8 +22,8 @@ Our group website is [here](http://vipl.ict.ac.cn/en/team.php?id=9).
 
 ## Challenges
 
-### The 1st Mandarin Audio-Visual Speech Recognition Challenge
-  This challenge aims at exploring the complementarity between visual and acoustic information in real-world speech recognition systems. Audio-based speech recognition has made great progresses in the last decade, while still face many challenges when coming to noisy conditions. With the rapid development of computer vision technologies, audio-visual speech recognition has become a hot topic. But it is unclear how much the visual speech can complement the acoustic speech. In this challenge, we encourage not only the contributions achieving high recognition performance, but also the contributions bringing brave new ideas for the topic.
+### The 1st Mandarin Audio-Visual Speech Recognition Challenge (MAVSR)
+  This challenge aims at exploring the complementarity between visual and acoustic information in real-world speech recognition systems.
   * Introduction @ICMI Website: [https://icmi.acm.org/2019/index.php?id=challenges#speech](https://icmi.acm.org/2019/index.php?id=challenges#speech)
   * Homepage: [http://vipl.ict.ac.cn/homepage/mavsr/index.html](http://vipl.ict.ac.cn/homepage/mavsr/index.html)
   
