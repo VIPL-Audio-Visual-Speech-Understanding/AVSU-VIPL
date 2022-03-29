@@ -53,3 +53,7 @@ Our group website is [here](http://vipl.ict.ac.cn/en/team.php?id=9).
   
 * Yuanhang Zhang, Jingyun Xiao, Shuang Yang, Shiguang Shan, "Multi-Task Learning for Audio-Visual Active Speaker Detection", *CVPR ActivityNet Challenge* 2019  
     [[PDF]](https://static.googleusercontent.com/media/research.google.com/zh-CN//ava/2019/Multi_Task_Learning_for_Audio_Visual_Active_Speaker_Detection.pdf)
+
+* Yang Shuang, Yuanhang Zhang, Dalu Feng, Mingmin Yang, Chenhao Wang, Jingyun Xiao, Keyu Long, Shiguang Shan, and Xilin Chen. "LRW-1000: A naturally-distributed large-scale benchmark for lip reading in the wild." *FG* 2019 [[PDF]](https://arxiv.org/abs/1810.06990) | [[Dataset]](http://vipl.ict.ac.cn/en/view_database.php?id=13) | [Code@fengdalu](https://github.com/VIPL-Audio-Visual-Speech-Understanding/Lipreading-DenseNet3D) [Code@NirHeaven](https://github.com/NirHeaven/D3D)  
+
+    
