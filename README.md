@@ -34,6 +34,10 @@ Our group website is [here](http://vipl.ict.ac.cn/en/team.php?id=9).
   
 ## Publications
 
+* Yuanhang Zhang, Susan Liang, Shuang Yang, Shiguang Shan, "Unicon+: ICTCAS-UCAS-TAL Submission to the AVA-ActiveSpeaker Task at ActivityNet Challenge 2022", The ActivityNet Large-Scale Activity Recognition Challenge at CVPR 2022 (**1st Place**).
+
+* Dalu Feng, Shuang Yang, Shiguang Shan, Xilin Chen, "Audio-Driven Deformation Flow for Effective Lip Reading", *ICPR* 2022
+
 * Yuanhang Zhang, Susan Liang, Shuang Yang, Xiao Liu, Zhongqin Wu, Shiguang Shan, "ICTCAS-UCAS-TAL Submission to the AVA-ActiveSpeaker Task at ActivityNet Challenge 2021", The ActivityNet Large-Scale Activity Recognition Challenge at CVPR 2021 (**1st Place**). [[PDF]](http://static.googleusercontent.com/media/research.google.com/zh-CN//ava/2021/S1_ICTCAS-UCAS-TAL.pdf)
 
 * Yuanhang Zhang, Susan Liang, Shuang Yang, Xiao Liu, Zhongqin Wu, Shiguang Shan, Xilin Chen, "UniCon: Unified Context Network for Robust Active Speaker Detection", *ACM MM* 2021.(**Oral**). [[Website]](https://unicon-asd.github.io/) | [[PDF]](https://arxiv.org/pdf/2108.02607.pdf)
