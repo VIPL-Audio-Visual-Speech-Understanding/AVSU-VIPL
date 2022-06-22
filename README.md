@@ -5,6 +5,7 @@ This is a collection of works from the Audio-Visual Speech Understanding Group a
 Our group website is [here](http://vipl.ict.ac.cn/en/team.php?id=9).
 
 ## Recent News: 
+[**2022-06**]: Retain the **championship** at AVA Active Speaker Challenge @ CVPR 2022: We achieved an mAP of **94.5%** on AVA-ActiveSpeaker Dataset and obtained the **1st place prize** in the Active Speaker Detection Track. More details can be found [here](https://research.google.com/ava/challenge.html). Congratulations to Yuanhang and Susan!
 
 [**2021-07**]: One paper is accepted by ACM MM 2021! Congratulations to Yuanhang and Susan!
 
