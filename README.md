@@ -31,11 +31,11 @@ Our group website is [here](http://vipl.ict.ac.cn/en/team.php?id=9).
   This challenge aims at exploring the complementarity between visual and acoustic information in real-world speech recognition systems.
   * Introduction @ICMI Website: [https://icmi.acm.org/2019/index.php?id=challenges#speech](https://icmi.acm.org/2019/index.php?id=challenges#speech)
   * Homepage: [here](https://vipl.ict.ac.cn/zygx/lthjs/202206/t20220605_37899.html)
-  * Date:2019/04 - 2019/08
+  * Date: 2019/04 - 2019/08
 
 ### 2022世界机器人大赛—共融机器人挑战赛：语音识别技术赛
   * Homepage:[here](http://www.worldrobotconference.com/cn/about/139.html)
-  * Date:2022/06-2022-12
+  * Date: 2022/06-2022-12
   * 欢迎报名！
   
 ## Publications
