@@ -28,7 +28,7 @@ Our group website is [here](http://vipl.ict.ac.cn/en/team.php?id=9).
 ## Challenges
 
 ### 2022 世界机器人大赛-共融机器人挑战赛-语音识别技术赛
-  * Homepage:[here](http://www.worldrobotconference.com/cn/about/139.html)
+  * Homepage: [here](http://www.worldrobotconference.com/cn/about/139.html)
   * Date: 2022/06-2022/12
   * 欢迎报名！
   
