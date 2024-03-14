@@ -5,6 +5,8 @@ This is a collection of works from the Audio-Visual Speech Understanding Group a
 Our group website is [here](http://vipl.ict.ac.cn/en/team.php?id=9).
 
 ## Recent News: 
+[[**2024-02**]: One paper iss accepted by CVPR 2024! Congratulations to Yuan-hang!]
+
 [**2023-08**]: Three papers are accepted by BMVC 2023! Congratulations to Bing-quan, Song-tao and Fei-xiang!
 
 [**2022-06**]: Championship again of the AVA Active Speaker Challenge @ CVPR 2022! More details can be found [here](https://research.google.com/ava/challenge.html). Congratulations to Yuanhang and Susan!
