@@ -31,8 +31,8 @@ Our group website is [here](http://vipl.ict.ac.cn/en/team.php?id=9).
 
 ### CAS-VSR-S68: A dataset for lip reading with unseen speakers, BMVC 2023
   **CAS-VSR-S68** is a lip reading dataset designed for evaluation of the extreme setting where the speech content is highly diverse, involving almost all common Chinese characters while the number of speakers is limited.
-  Dataset Link: [https://github.com/jinchiniao/CAS-VSR-S68]
-  Paper Link: [https://arxiv.org/abs/2310.05058]
+  * Dataset Link: [https://github.com/jinchiniao/CAS-VSR-S68]
+  * Paper Link: [https://arxiv.org/abs/2310.05058]
   > *Note:* You can download the agreement file [here](https://github.com/jinchiniao/CAS-VSR-S68/blob/main/CAS-VSR-S68-Release%20Agreement-v3.pdf). Please read the agreement carefully, and complete it appropriately. Note that the agreement should be signed by **a full-time staff member** (that is, students are not acceptable). Then, please scan the signed agreement and send it to lipreading@vipl.ict.ac.cn. When we receive your reply, we will provide the download link to you as soon as possible. 
 ## Challenges
 
@@ -52,7 +52,7 @@ Our group website is [here](http://vipl.ict.ac.cn/en/team.php?id=9).
 
 * Bingquan Xia, Shuang Yang, Shiguang Shan, Xilin Chen. "UniLip: Learning Visual-Textual Mapping with Uni-Modal Data for Lip Reading".  *BMVC* 2023.
 
-* Songtao Luo, Shuang Yang, Shiguang Shan, Xilin Chen. "Learning Separable Hidden Unit Contributions for Speaker-Adaptive Lip-Reading", *BMVC* 2023. [[Code]]((https://github.com/jinchiniao/LSHUC)) | [[PDF]](https://arxiv.org/pdf/2310.05058.pdf) | [[Dataset]](https://github.com/jinchiniao/CAS-VSR-S68)
+* Songtao Luo, Shuang Yang, Shiguang Shan, Xilin Chen. "Learning Separable Hidden Unit Contributions for Speaker-Adaptive Lip-Reading", *BMVC* 2023. | [[PDF]](https://arxiv.org/pdf/2310.05058.pdf) | [[code]](https://github.com/jinchiniao/LSHUC) | [[Dataset]](https://github.com/jinchiniao/CAS-VSR-S68)
 
 * Yuanhang Zhang, Susan Liang, Shuang Yang, Shiguang Shan, "Unicon+: ICTCAS-UCAS-TAL Submission to the AVA-ActiveSpeaker Task at ActivityNet Challenge 2022", The ActivityNet Large-Scale Activity Recognition Challenge at CVPR 2022 (**1st Place**).
 
