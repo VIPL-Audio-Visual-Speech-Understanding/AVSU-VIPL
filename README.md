@@ -52,7 +52,7 @@ Our group website is [here](http://vipl.ict.ac.cn/en/team.php?id=9).
 
 * Bingquan Xia, Shuang Yang, Shiguang Shan, Xilin Chen. "UniLip: Learning Visual-Textual Mapping with Uni-Modal Data for Lip Reading".  *BMVC* 2023.
 
-* Songtao Luo, Shuang Yang, Shiguang Shan, Xilin Chen. "Learning Separable Hidden Unit Contributions for Speaker-Adaptive Lip-Reading", *BMVC* 2023. | [[PDF]](https://arxiv.org/pdf/2310.05058.pdf) | [[code]](https://github.com/jinchiniao/LSHUC) | [[Dataset]](https://github.com/jinchiniao/CAS-VSR-S68)
+* Songtao Luo, Shuang Yang, Shiguang Shan, Xilin Chen. "Learning Separable Hidden Unit Contributions for Speaker-Adaptive Lip-Reading", *BMVC* 2023. [[PDF]](https://arxiv.org/pdf/2310.05058.pdf) | [[Dataset]](https://github.com/jinchiniao/CAS-VSR-S68) | [[code]](https://github.com/jinchiniao/LSHUC)
 
 * Yuanhang Zhang, Susan Liang, Shuang Yang, Shiguang Shan, "Unicon+: ICTCAS-UCAS-TAL Submission to the AVA-ActiveSpeaker Task at ActivityNet Challenge 2022", The ActivityNet Large-Scale Activity Recognition Challenge at CVPR 2022 (**1st Place**).
 
