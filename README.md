@@ -30,7 +30,6 @@ Our group website is [here](http://vipl.ict.ac.cn/en/team.php?id=9).
   * Dataset Link: [https://github.com/VIPL-Audio-Visual-Speech-Understanding/CAS-VSR-S101](https://github.com/VIPL-Audio-Visual-Speech-Understanding/CAS-VSR-S101)
   * Paper Link: [CAS-VSR-S101 paper](https://openaccess.thecvf.com/content/CVPR2024/papers/Zhang_ES3_Evolving_Self-Supervised_Learning_of_Robust_Audio-Visual_Speech_Representations_CVPR_2024_paper.pdf)
   > *Note:* You can download the agreement file [here]([https://github.com/jinchiniao/CAS-VSR-S68/blob/main/CAS-VSR-S68-Release%20Agreement-v3.pdf](https://github.com/VIPL-Audio-Visual-Speech-Understanding/CAS-VSR-S101)). Please read the agreement carefully, and complete it appropriately. Note that the agreement should be signed by **a full-time staff member** (that is, students are not acceptable). Then, please scan the signed agreement and send it to lipreading@vipl.ict.ac.cn. When we receive your reply, we will provide the download link to you as soon as possible. 
-## Challenges
 
 ### LRW-1000: A naturally-distributed large-scale benchmark for lip reading in the wild, FG 2019
   The largest Mandarin word-level audio-visual speech recognition dataset (2022), also called **CAS-VSR-W1k**.
@@ -46,20 +45,29 @@ Our group website is [here](http://vipl.ict.ac.cn/en/team.php?id=9).
   * Paper Link: [https://arxiv.org/abs/2310.05058](https://arxiv.org/abs/2310.05058)
   > *Note:* You can download the agreement file [here](https://github.com/jinchiniao/CAS-VSR-S68/blob/main/CAS-VSR-S68-Release%20Agreement-v3.pdf). Please read the agreement carefully, and complete it appropriately. Note that the agreement should be signed by **a full-time staff member** (that is, students are not acceptable). Then, please scan the signed agreement and send it to lipreading@vipl.ict.ac.cn. When we receive your reply, we will provide the download link to you as soon as possible. 
 ## Challenges
+### 2025-The 2nd Mandarin Audio-Visual Speech Recognition Challenge (MAVSR) @ IEEE FG
+  Welcome to the competition!
+  * Introduction @IEEE FG Website: [https://fg2025.ieee-biometrics.org/participate/competitions/](https://fg2025.ieee-biometrics.org/participate/competitions/ )
+  * Homepage: [here](https://codalab.lisn.upsaclay.fr/competitions/21609)
+  * Date: 2024/12 - 2025/05
 
 ### 2022 世界机器人大赛-共融机器人挑战赛-语音识别技术赛
   * Homepage: [here](http://www.worldrobotconference.com/cn/about/139.html)
   * Date: 2022/06-2022/12
   * 欢迎报名！
   
-### 2019-The 1st Mandarin Audio-Visual Speech Recognition Challenge (MAVSR)
+### 2019-The 1st Mandarin Audio-Visual Speech Recognition Challenge (MAVSR) @ ACM ICMI
   This challenge aims at exploring the complementarity between visual and acoustic information in real-world speech recognition systems.
   * Introduction @ICMI Website: [https://icmi.acm.org/2019/index.php?id=challenges#speech](https://icmi.acm.org/2019/index.php?id=challenges#speech)
   * Homepage: [here](https://vipl.ict.ac.cn/zygx/lthjs/202206/t20220605_37899.html)
   * Date: 2019/04 - 2019/08
 
 ## Publications
-* Feixiang Wang, Shuang Yang, Shiguang Shan, Xilin Chen. "Cooperative Dual Attention for Audio-Visual Speech Enhancement with Facial Cues",  *BMVC* 2023. 
+* Yuanhang Zhang, Shuang Yang, Shiguang Shan, Xilin Chen, "ES3: Evolving Self-Supervised Learning of Robust Audio-Visual Speech Representations", *CVPR* 2024.
+
+* Dalu Feng, Shuang Yang, Shiguang Shan, Xilin Chen, "Audio-guided self-supervised learning for disentangled visual speech representations", *Frontiers of Computer Science*, 2024.
+
+* Feixiang Wang, Shuang Yang, Shiguang Shan, Xilin Chen, "Cooperative Dual Attention for Audio-Visual Speech Enhancement with Facial Cues",  *BMVC* 2023. 
 
 * Bingquan Xia, Shuang Yang, Shiguang Shan, Xilin Chen. "UniLip: Learning Visual-Textual Mapping with Uni-Modal Data for Lip Reading".  *BMVC* 2023.
 
