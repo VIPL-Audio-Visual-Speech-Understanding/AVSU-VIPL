@@ -5,21 +5,32 @@ This is a collection of works from the Audio-Visual Speech Understanding Group a
 Our group website is [here](http://vipl.ict.ac.cn/en/team.php?id=9).
 
 ## Recent News: 
-[**2024-02**]: One paper is accepted by CVPR 2024! Congratulations to Yuanhang!
+[**2024-12**]: Start of Challenge [MAVSR-2025 @ IEEE FG 2025](https://codalab.lisn.upsaclay.fr/competitions/21609)! Welcome to the competition! 
 
-[**2023-08**]: Three papers are accepted by BMVC 2023! Congratulations to Bing-Quan, Song-Tao and Fei-Xiang!
+[**2024-06**]: Championship in Track 1 of the AVSE Challenge @ InterSpeech 2024! Congratulations to Fei-Xiang! 
+
+[**2024-02**]: 1 paper is accepted by CVPR 2024! Congratulations to Yuanhang!
+
+[**2023-08**]: 3 papers are accepted by BMVC 2023! Congratulations to Bing-Quan, Song-Tao and Fei-Xiang!
 
 [**2022-06**]: Championship again of the AVA Active Speaker Challenge @ CVPR 2022! More details can be found [here](https://research.google.com/ava/challenge.html). Congratulations to Yuanhang and Susan!
 
-[**2022-03**]: One paper is accepted by ICPR 2022! Congratulations to Dalu!
+[**2022-03**]: 1 paper is accepted by ICPR 2022! Congratulations to Dalu!
 
-[**2021-07**]: One paper is accepted by ICME Workshop 2021! Congratulations to Dalu!
+[**2021-07**]: 1 paper is accepted by ICME Workshop 2021! Congratulations to Dalu!
 
-[**2021-07**]: One paper is accepted by ACM MM 2021! Congratulations to Yuanhang and Susan!
+[**2021-07**]: 1 paper is accepted by ACM MM 2021! Congratulations to Yuanhang and Susan!
 
 [**2021-06**]: Champion of the AVA Active Speaker Challenge @ CVPR 2021! More details can be found [here](https://research.google.com/ava/challenge.html). Congratulations to Yuanhang and Susan!
 
 ## Datasets
+
+### CAS-VSR-S101: A dataset for sentence-level audio visual speech analysis, CVPR 2024
+  **CAS-VSR-S101** is a Mandarin audio visual speech analysis dataset, involving almost all common Chinese characters and numbers of speakers speaking in diversed visual settings.
+  * Dataset Link: [https://github.com/VIPL-Audio-Visual-Speech-Understanding/CAS-VSR-S101](https://github.com/VIPL-Audio-Visual-Speech-Understanding/CAS-VSR-S101)
+  * Paper Link: [CAS-VSR-S101 paper](https://openaccess.thecvf.com/content/CVPR2024/papers/Zhang_ES3_Evolving_Self-Supervised_Learning_of_Robust_Audio-Visual_Speech_Representations_CVPR_2024_paper.pdf)
+  > *Note:* You can download the agreement file [here]([https://github.com/jinchiniao/CAS-VSR-S68/blob/main/CAS-VSR-S68-Release%20Agreement-v3.pdf](https://github.com/VIPL-Audio-Visual-Speech-Understanding/CAS-VSR-S101)). Please read the agreement carefully, and complete it appropriately. Note that the agreement should be signed by **a full-time staff member** (that is, students are not acceptable). Then, please scan the signed agreement and send it to lipreading@vipl.ict.ac.cn. When we receive your reply, we will provide the download link to you as soon as possible. 
+## Challenges
 
 ### LRW-1000: A naturally-distributed large-scale benchmark for lip reading in the wild, FG 2019
   The largest Mandarin word-level audio-visual speech recognition dataset (2022), also called **CAS-VSR-W1k**.
