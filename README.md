@@ -5,6 +5,8 @@ This is a collection of works from the Audio-Visual Speech Understanding Group a
 Our group website is [here](http://vipl.ict.ac.cn/en/team.php?id=9).
 
 ## Recent News: 
+[**2025-05**]: 1 paper is accepted by IEEE FG 2025! Congratulations to Songtao!
+
 [**2024-12**]: Start of Challenge [MAVSR-2025 @ IEEE FG 2025](https://codalab.lisn.upsaclay.fr/competitions/21609)! Welcome to the competition! 
 
 [**2024-06**]: Championship in the open track of the AVSE Challenge @ InterSpeech 2024! Congratulations to Fei-Xiang! 
