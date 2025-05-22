@@ -1,4 +1,4 @@
-# Collection of works from VIPL-AVSU
+# Works Collection of VIPL-AVSU-Group
 
 This is a collection of works from the Audio-Visual Speech Understanding Group at VIPL.
 
