@@ -6,27 +6,27 @@ Our group website is [here](http://vipl.ict.ac.cn/en/team.php?id=9).
 
 ## Recent News: 
 
-[**2025-06**]: 2 papers are accepted by IEEE ICCV 2025! Congratulations to Fei-xiang and Zhao-xin!
+[**2025-06**]: 2 papers are accepted by IEEE ICCV 2025! Congratulations to Fei-Xiang and Zhao-Xin!
 
-[**2025-05**]: 1 paper is accepted by IEEE FG 2025! Congratulations to Song-tao!
+[**2025-05**]: 1 paper is accepted by IEEE FG 2025! Congratulations to Song-Tao!
 
 [**2024-12**]: Start of Challenge [MAVSR-2025 @ IEEE FG 2025](https://codalab.lisn.upsaclay.fr/competitions/21609)! Welcome to the competition! 
 
-[**2024-06**]: Championship in the open track of the AVSE Challenge @ InterSpeech 2024! Congratulations to Fei-xiang! 
+[**2024-06**]: Championship in the open track of the AVSE Challenge @ InterSpeech 2024! Congratulations to Fei-Xiang! 
 
-[**2024-02**]: 1 paper is accepted by CVPR 2024! Congratulations to Yuan-hang!
+[**2024-02**]: 1 paper is accepted by CVPR 2024! Congratulations to Yuan-Hang!
 
-[**2023-08**]: 3 papers are accepted by BMVC 2023! Congratulations to Bing-quan, Song-Tao and Fei-xiang!
+[**2023-08**]: 3 papers are accepted by BMVC 2023! Congratulations to Bing-Quan, Song-Tao and Fei-Xiang!
 
-[**2022-06**]: Championship again of the AVA Active Speaker Challenge @ CVPR 2022! More details can be found [here](https://research.google.com/ava/challenge.html). Congratulations to Yuan-hang and Su-san!
+[**2022-06**]: Championship again of the AVA Active Speaker Challenge @ CVPR 2022! More details can be found [here](https://research.google.com/ava/challenge.html). Congratulations to Yuan-Hang and Su-San!
 
-[**2022-03**]: 1 paper is accepted by ICPR 2022! Congratulations to Da-lu!
+[**2022-03**]: 1 paper is accepted by ICPR 2022! Congratulations to Da-Lu!
 
-[**2021-07**]: 1 paper is accepted by ICME Workshop 2021! Congratulations to Da-lu!
+[**2021-07**]: 1 paper is accepted by ICME Workshop 2021! Congratulations to Da-Lu!
 
-[**2021-07**]: 1 paper is accepted by ACM MM 2021! Congratulations to Yuan-hang and Su-san!
+[**2021-07**]: 1 paper is accepted by ACM MM 2021! Congratulations to Yuan-hang and Su-San!
 
-[**2021-06**]: Champion of the AVA Active Speaker Challenge @ CVPR 2021! More details can be found [here](https://research.google.com/ava/challenge.html). Congratulations to Yuan-hang and Su-san!
+[**2021-06**]: Champion of the AVA Active Speaker Challenge @ CVPR 2021! More details can be found [here](https://research.google.com/ava/challenge.html). Congratulations to Yuan-Hang and Su-San!
 
 ## Datasets
 
