@@ -68,6 +68,12 @@ Our group website is [here](http://vipl.ict.ac.cn/en/team.php?id=9).
   * Date: 2019/04 - 2019/08
 
 ## Publications
+* Feixiang Wang, Shuang Yang, Shiguang Shan, Xilin Chen, "CogCM: Cognition-Inspired Contextual Modeling for Audio Visual Speech Enhancement", *ICCV* 2025.
+  
+* Zhaoxin Yuan, Shuang Yang, Shiguang Shan, Xilin Chen, "Not Only Vision: Evolve Visual Speech Recognition via Peripheral Information", *ICCV* 2025.
+  
+* Songtao Luo, Shuang Yang, Shiguang Shan, Xilin Chen, "Dynamic Visual Speaking Patterns: You Are the Way You Speak", *FG* 2025.
+
 * Yuanhang Zhang, Shuang Yang, Shiguang Shan, Xilin Chen, "ES3: Evolving Self-Supervised Learning of Robust Audio-Visual Speech Representations", *CVPR* 2024.
 
 * Dalu Feng, Shuang Yang, Shiguang Shan, Xilin Chen, "Audio-guided self-supervised learning for disentangled visual speech representations", *Frontiers of Computer Science*, 2024.
