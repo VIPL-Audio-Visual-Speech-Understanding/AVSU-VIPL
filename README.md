@@ -2,8 +2,6 @@
 
 This is a collection of works from the Audio-Visual Speech Understanding Group at VIPL.
 
-Our group website is [here](http://vipl.ict.ac.cn/en/team.php?id=9).
-
 ## Recent News: 
 
 [**2025-06**]: 2 papers are accepted by IEEE ICCV 2025! Congratulations to Fei-Xiang and Zhao-Xin!
